@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/appointment/static/css/main.d76ca90b.css",
+    "main.js": "/appointment/static/js/main.3491d824.js",
+    "static/media/Amiri-Regular.ttf": "/appointment/static/media/Amiri-Regular.0666808e81a5c9f77f4f.ttf",
+    "static/media/Shalimar-Regular.ttf": "/appointment/static/media/Shalimar-Regular.10248c233c2e4f27901f.ttf",
+    "static/media/Raleway-Light.ttf": "/appointment/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
+    "static/media/Raleway-Medium.ttf": "/appointment/static/media/Raleway-Medium.601cda68c7b7bbcc9a12.ttf",
+    "static/media/Raleway-Regular.ttf": "/appointment/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
+    "index.html": "/appointment/index.html",
+    "static/media/getFetch.cjs": "/appointment/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.d76ca90b.css.map": "/appointment/static/css/main.d76ca90b.css.map",
+    "main.3491d824.js.map": "/appointment/static/js/main.3491d824.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76ca90b.css",
+    "static/js/main.3491d824.js"
+  ]
+}
